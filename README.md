@@ -1,37 +1,25 @@
 # README
-![Diana Ferreira](url-da-sua-foto)
-
+# README
 <div align="center">
   <h1>Hey, I'm Diana Ferreira 👋</h1>
-  ![Java](badge-java) ![Spring Boot](badge-spring) ![React](badge-react)
+  <p>💻 Full‑Stack Developer | Java | Spring Boot | JavaScript | React | C# | .NET | </p>
 </div>
 
-## 👋 Sobre Mim
-Sou ...
+---
 
-## 📚 Conteúdo
-- [Sobre Mim](#sobre-mim)
-- [Tech Stack](#tech-stack)
-- ...
+## 🌱 AboutMe
+yaml
+name: Diana Ferreira
+role: Aspiring Software Developer
+location: Porto, Portugal
+lookingFor: "First opportunity in tech"
 
-## 🚀 Tech Stack
-Java • Spring Boot • JavaScript • React • C# • .NET
+## 📫 How to contactMe
+- E‑mail: dianafernandezhf@outlook.pt  
+- LinkedIn: [Link](https://linkedin.com/in/dianahernandezhf)  
+- Location: Porto, Portugal
 
-## 💼 Projetos em Destaque
-### [PACMAN](link)
-...
-### OutroProjeto
-...
-
-## 📝 Blog Posts
-- [Título 1](link) – descrição
-
-## 📊 Estatísticas
-![GitHub Stats](...)
-![Top Langs](...)
-
-## 📫 Contato
-...
-
-## 🎯 Interesses
-...
+## 🎯 Interests
+- Running
+- Games  
+- Learn more TechStack 
