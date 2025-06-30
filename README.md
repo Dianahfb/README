@@ -7,12 +7,14 @@
 ---
 
 ## 🌱 About me
-- Name: Diana Ferreira
+- Name: Diana Ferreira | Resilient | Curious | 
 - Role: Aspiring Software Developer
 - Location: Porto, Portugal
 - LookingFor: "First opportunity in tech"
+- Certificates: Foundational C# with Microsoft - JUNE 2025
+- Code for All_ Full-Stack Bootcamp
 
-## 📫 How to contactMe
+## 📫 How to contact me
 - E‑mail: dianafernandezhf@outlook.pt  
 - LinkedIn: [Link](https://linkedin.com/in/dianahernandezhf)  
 - Location: Porto, Portugal
@@ -21,3 +23,33 @@
 - Running
 - Games  
 - Learn more TechStack 
+
+## 🎁 Skills
+- Java
+- C#
+- JavaScript
+- HTML
+- CSS
+- Spring Boot
+- Spring MVC
+- Hibernate
+- React.js
+- jQuery
+- .NET
+- Bootstrap
+- SQL
+- PostgreSQL
+- Git
+- Maven
+- Mockito
+- Tomcat
+- Postman
+- JUnit
+- Agile
+- Scrum
+- OOP
+- Testing
+- REST API
+- SOAP
+- Intellij IDEA
+
