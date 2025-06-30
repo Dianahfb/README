@@ -6,7 +6,7 @@
 
 ---
 
-## 🌱 AboutMe
+## 🌱 Sobre mim
 yaml
 name: Diana Ferreira
 role: Aspiring Software Developer
