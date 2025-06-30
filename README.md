@@ -6,12 +6,11 @@
 
 ---
 
-## 🌱 Sobre mim
-yaml
-name: Diana Ferreira
-role: Aspiring Software Developer
-location: Porto, Portugal
-lookingFor: "First opportunity in tech"
+## 🌱 About me
+- Name: Diana Ferreira
+- Role: Aspiring Software Developer
+- Location: Porto, Portugal
+- LookingFor: "First opportunity in tech"
 
 ## 📫 How to contactMe
 - E‑mail: dianafernandezhf@outlook.pt  
