@@ -1,16 +1,37 @@
 # README
+![Diana Ferreira](url-da-sua-foto)
+
 <div align="center">
   <h1>Hey, I'm Diana Ferreira 👋</h1>
-  <p>💻 Aspiring Full‑Stack Developer | Java | Spring Boot | JavaScript | React | C# | .NET | </p>
+  ![Java](badge-java) ![Spring Boot](badge-spring) ![React](badge-react)
 </div>
 
----
+## 👋 Sobre Mim
+Sou ...
 
-## 🌱 Sobre Mim
-```yaml
-name: Diana Ferreira
-role: Aspiring Software Developer
-location: Porto, Portugal
-lookingFor: "First opportunity in tech"
+## 📚 Conteúdo
+- [Sobre Mim](#sobre-mim)
+- [Tech Stack](#tech-stack)
+- ...
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </p>
+## 🚀 Tech Stack
+Java • Spring Boot • JavaScript • React • C# • .NET
+
+## 💼 Projetos em Destaque
+### [PACMAN](link)
+...
+### OutroProjeto
+...
+
+## 📝 Blog Posts
+- [Título 1](link) – descrição
+
+## 📊 Estatísticas
+![GitHub Stats](...)
+![Top Langs](...)
+
+## 📫 Contato
+...
+
+## 🎯 Interesses
+...
