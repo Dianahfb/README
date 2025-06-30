@@ -1,5 +1,4 @@
 # README
-# README
 <div align="center">
   <h1>Hey, I'm Diana Ferreira 👋</h1>
   <p>💻 Full‑Stack Developer | Java | Spring Boot | JavaScript | React | C# | .NET | </p>
